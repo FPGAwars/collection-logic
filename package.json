@@ -1,0 +1,23 @@
+{
+  "name": "Logic",
+  "version": "0.1.0",
+  "description": "Logic gates, combinational and sequential blocks",
+  "keywords": "logic, gates, combinational, sequential, collection",
+  "license": "GPL-2.0",
+  "authors" : [
+    {
+      "name": "Jesús Arroyo Torrens",
+      "url": "https://github.com/Jesus89"
+    },
+    {
+      "name": "Carlos Díaz",
+      "url": "https://github.com/C47D"
+    }
+  ],
+  "contributors": [],
+  "repository": {
+    "type": "git",
+    "branch": "master",
+    "url": "https://github.com/FPGAwars/collection-logic"
+  }
+}
