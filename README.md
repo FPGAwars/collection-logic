@@ -32,6 +32,11 @@ Logic gates, combinational and sequential blocks.
     * OR
 
 
+## Languages
+| Language | Translated strings |
+|:--------:|:------------------:|
+| en | ![Progress](http://progressed.io/bar/100) |
+| es_ES | ![Progress](http://progressed.io/bar/100) |
 
 ## Authors
 * [Jesús Arroyo Torrens](https://github.com/Jesus89)
