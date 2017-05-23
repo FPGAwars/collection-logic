@@ -1,13 +1,13 @@
 # Logic Collection
 
 [![Icestudio](https://img.shields.io/badge/collection-icestudio-blue.svg)](https://github.com/FPGAwars/icestudio)
-![Version](https://img.shields.io/badge/version-v0.1.0-orange.svg)
+![Version](https://img.shields.io/badge/version-v0.1.1-orange.svg)
 
 Logic gates, combinational and sequential blocks.
 
 ## Install
 
-* Download the collection: [stable](https://github.com/FPGAwars/collection-logic/archive/v0.1.0.zip) or [development](https://github.com/FPGAwars/collection-logic/archive/master.zip)
+* Download the collection: [stable](https://github.com/FPGAwars/collection-logic/archive/v0.1.1.zip) or [development](https://github.com/FPGAwars/collection-logic/archive/master.zip)
 * Install the collection: *Tools > Collections > Add*
 * Load the collection: *Select > Collection*
 
