@@ -9,7 +9,12 @@
 // 3. Add the locale/translation.js file
 // 4. Press "Update" to update from sources
 
-gettext('Gates');
+gettext('Bit');
+gettext('Gate');
+gettext('0');
+gettext('Assign 0 to the output wire');
+gettext('1');
+gettext('Assign 1 to the output wire');
 gettext('1 bit');
 gettext('2 bit');
 gettext('3 bit');
@@ -27,3 +32,7 @@ gettext('XNOR');
 gettext('XNOR logic gate');
 gettext('XOR');
 gettext('XOR logic gate');
+gettext('AND');
+gettext('NAND');
+gettext('NOR');
+gettext('OR');

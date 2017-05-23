@@ -12,7 +12,10 @@ Logic gates, combinational and sequential blocks.
 * Load the collection: *Select > Collection*
 
 ## Blocks
-* *Gates*
+* *Bit*
+  * 0
+  * 1
+* *Gate*
   * *1 bit*
     * NOT
   * *2 bit*
@@ -23,6 +26,10 @@ Logic gates, combinational and sequential blocks.
     * XNOR
     * XOR
   * *3 bit*
+    * AND
+    * NAND
+    * NOR
+    * OR
 
 
 
